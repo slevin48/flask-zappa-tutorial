@@ -4,6 +4,8 @@ An example of using Python, Flask and Zappa to deploy as very simple serverless 
 
 Follows Pretty Printed YouTube Video: https://youtu.be/Vl5wroVmSuk
 
+Associated Article: https://pythonforundergradengineers.com/deploy-serverless-web-app-aws-lambda-zappa.html
+
 ## To run
 
 ### AWS credentials
